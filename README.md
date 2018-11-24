@@ -1,3 +1,3 @@
 # ex
   * test
-   *https://github.com/Samsung/TizenRT/pull/2479
+  * https://github.com/Samsung/TizenRT/pull/2479
